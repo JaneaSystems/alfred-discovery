@@ -1,0 +1,68 @@
+```mermaid
+flowchart TB
+    subgraph Teams["AX3 TEAMS"]
+        PurchasingTeam["Purchasing Team"]
+        EditorialTeam["Editorial Team"]
+    end
+    
+    subgraph CoreSystems["CORE SYSTEMS"]
+        AS400["AS400<br/>(Inventory/Sales)"]
+        FileMaker["FileMaker<br/>(Metadata)"]
+        SQLServer["SQL Server<br/>(Digital SKUs)"]
+        RoyaltySystem["Royalty System<br/>(Rights)"]
+    end
+    
+    subgraph WebPortal["WEB PORTAL"]
+        Portal["portal.ax3.com"]
+        ExcelTemplates["Excel Templates"]
+    end
+    
+    subgraph Distribution["DISTRIBUTION CHANNELS"]
+        AX3Website["ax3.com"]
+        Legato["Legato<br/>(Dealers)"]
+        FTP["FTP + Dealers"]
+    end
+    
+    subgraph AssetStorage["ASSET DISTRIBUTION"]
+        SourcePDFs["Source PDFs"]
+        AWSS3["AWS S3<br/>(ax3.com)"]
+        LegatoAssets["Legato<br/>(dealers)"]
+        Dropbox["Dropbox<br/>(archive + non-Legato dealers)"]
+    end
+    
+    %% Team Actions
+    PurchasingTeam -->|creates AS400 record| AS400
+    EditorialTeam -->|adds metadata| FileMaker
+    
+    %% System Integrations
+    AS400 -->|nightly sync| RoyaltySystem
+    FileMaker -->|nightly CSV export| SQLServer
+    ExcelTemplates -->|upload| Portal
+    Portal -->|writes| SQLServer
+    
+    %% SQL Server Distribution
+    SQLServer -->|digital SKU| AS400
+    SQLServer -->|updates| RoyaltySystem
+    SQLServer -->|product data| AX3Website
+    SQLServer -->|product data| Legato
+    
+    %% Dealer Distribution
+    Legato -->|FTP feed| FTP
+    
+    %% Asset Distribution Flow
+    SourcePDFs -.->|uploaded to| AWSS3
+    SourcePDFs -.->|uploaded to| LegatoAssets
+    SourcePDFs -.->|uploaded to| Dropbox
+    
+    %% Styling
+    classDef teamStyle fill:#e1f5ff,stroke:#0066cc,stroke-width:2px
+    classDef coreStyle fill:#fff4e6,stroke:#ff9800,stroke-width:2px
+    classDef portalStyle fill:#f3e5f5,stroke:#9c27b0,stroke-width:2px
+    classDef distStyle fill:#e8f5e9,stroke:#4caf50,stroke-width:2px
+    classDef assetStyle fill:#fce4ec,stroke:#e91e63,stroke-width:2px
+    
+    class PurchasingTeam,EditorialTeam teamStyle
+    class AS400,FileMaker,SQLServer,RoyaltySystem coreStyle
+    class Portal,ExcelTemplates portalStyle
+    class AX3Website,Legato,FTP distStyle
+    class SourcePDFs,AWSS3,LegatoAssets,Dropbox assetStyle
