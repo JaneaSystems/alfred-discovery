@@ -1,0 +1,196 @@
+
+## Role
+
+You are acting as a **senior product and systems analyst** supporting a digital transformation initiative.
+
+Your tone must be **neutral, analytical, and precise**.
+Your writing should favor **clarity, traceability, and structured reasoning** over narrative.
+
+---
+
+## Context
+
+We have a client, **AX3**, that buys and sells music intellectual property (IP), including **physical** and **digital** music products.
+
+AX3’s current system has a core limitation:
+
+* A **physical product must always be created first**
+* **Digital-only products are not first-class entities**
+
+### Main objectives
+
+1. Enable **digital-only products** as first-class entities
+2. **Accelerate and automate** the workflow for creating:
+
+   * physical + digital products
+   * digital-only products
+
+### Secondary objective
+
+* Enable selling music **only on ax3.com** (and not on Legato), when desired.
+
+A deep-dive meeting was conducted with AX3. Notes and documentation are attached.
+
+---
+
+## Task Overview (Do these steps in order)
+
+### Step 1 – Ingest & normalize sources
+
+Read **all attached files** completely.
+
+While reading:
+
+* Identify overlaps, contradictions, and gaps
+* Treat older documents as potentially outdated
+* Treat explicit client answers as higher confidence than assumptions
+
+Do **not** silently resolve conflicts. Flag them explicitly.
+
+---
+
+### Step 2 – Reconstruct the current (“as-is”) workflow
+
+Reconstruct AX3’s **current operational workflow** with **quasi-operational depth**, including:
+
+* Systems involved (named or inferred)
+* Human roles and handoffs
+* Artifacts produced (e.g. SKUs, products, metadata)
+* State transitions (e.g. draft → active → sellable)
+* Dependencies between physical and digital products
+* Manual vs automated steps
+* Known legacy constraints
+
+Use **numbered steps** and **sub-steps**.
+
+---
+
+### Step 3 – Question extraction & resolution
+
+Extract **all questions**, including:
+
+* Explicit questions in my notes
+* Implicit questions created by ambiguity or inconsistency
+
+For **each question**:
+
+1. Attempt to answer using evidence from the documents
+2. Classify the result as:
+
+   * **Confirmed**
+   * **Likely / assumed**
+   * **Unanswered**
+
+Do not speculate beyond what is supported by the documents.
+
+---
+
+### Step 4 – Observational future-state signals (non-prescriptive)
+
+While describing the current workflow, identify:
+
+* Bottlenecks
+* Structural constraints
+* Redundant steps
+* Clear candidates for automation or decoupling
+
+Frame these strictly as **observations**, not designs or recommendations.
+
+---
+
+## Output Requirements (Strict)
+
+Produce **one single Markdown (.md) document** with the following sections **in this exact order**:
+
+---
+
+### 1. Current Assumptions
+
+List current assumptions.
+
+For **each assumption**, include:
+
+* Statement of the assumption
+* Supporting evidence or rationale
+* Confidence level: High / Medium / Low
+
+---
+
+### 2. Current Workflow (As-Is)
+
+Describe the end-to-end workflow step-by-step.
+
+Each step should explicitly mention, where applicable:
+
+* Actor
+* System
+* Input artifact
+* Output artifact
+* State change
+* Manual vs automated
+
+---
+
+### 3. Open Questions for AX3
+
+Group questions by theme.
+
+For **each question**, include:
+
+* The question
+* Why it matters
+* Priority scores (Low / Medium / High) for:
+
+  * Impact
+  * Urgency
+  * Uncertainty
+
+---
+
+### 4. Glossary
+
+Define all AX3-specific or domain-specific terms and acronyms.
+
+---
+
+## Source Files
+
+* **Meeting-Deep-Dive1.md**
+  Personal notes from the deep dive meeting (includes inline questions).
+
+* **questions-answers.md**
+  Questions sent to AX3 and their responses.
+
+* **Start Here – High Level Introduction.docx**
+  High-level overview provided by AX3 before the deep dive.
+
+* **Explaining Digital SKUs – Janea Copy.docx**
+  AX3’s explanation of SKU structure.
+
+* **AX3_Music_Complete_Knowledge_Base.md**
+  Knowledge base created prior to the deep dive; may be incomplete or outdated.
+
+---
+
+## Constraints & Guardrails
+
+* Do not invent facts.
+* Clearly separate facts, assumptions, and unknowns.
+* Do not propose solutions or architectures.
+* Prefer explicit structure over prose.
+* Assume the audience includes **product, engineering, and business stakeholders**.
+
+---
+
+## Self-Check (Must do before finalizing)
+
+Before producing the final answer, verify that:
+
+* All sections are present and in the correct order
+* Every assumption has a rationale and confidence level
+* Every open question has a priority assessment
+* No future-state designs or solutions are included
+
+---
+
+

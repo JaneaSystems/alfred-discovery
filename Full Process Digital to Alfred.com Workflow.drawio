@@ -1,0 +1,746 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.4">
+  <diagram name="Page-1" id="9ZS4hXq2DUwbAmitl0kw">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WEljTychmODOqXSdkwtX-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Performance Music&lt;br&gt;(ensembles with score/parts)" vertex="1">
+          <mxGeometry height="60" width="180" x="1649" y="1227" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sheets/Books&lt;br&gt;(Full books or single songs)" vertex="1">
+          <mxGeometry height="60" width="180" x="1859" y="1227" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-3" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="WEljTychmODOqXSdkwtX-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1946" y="533" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-4" connectable="0" parent="WEljTychmODOqXSdkwtX-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Physical to Digital" vertex="1">
+          <mxGeometry relative="1" x="0.1156" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-5" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="WEljTychmODOqXSdkwtX-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2011" y="494" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-6" connectable="0" parent="WEljTychmODOqXSdkwtX-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Digital ONLY/ Digital FIRST" vertex="1">
+          <mxGeometry relative="1" x="-0.1166" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-7" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="WEljTychmODOqXSdkwtX-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-8" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WEljTychmODOqXSdkwtX-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Alfred Music Products" vertex="1">
+          <mxGeometry height="60" width="180" x="1462" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Distributed Products" vertex="1">
+          <mxGeometry height="60" width="180" x="2900" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Selling Digital Sheet Music&lt;/span&gt;" vertex="1">
+          <mxGeometry height="73" width="350" x="1534" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-12" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="460" width="400" x="1529" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-13" parent="WEljTychmODOqXSdkwtX-12" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" value="" vertex="1">
+          <mxGeometry height="460" width="400" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-14" edge="1" parent="WEljTychmODOqXSdkwtX-12" source="WEljTychmODOqXSdkwtX-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WEljTychmODOqXSdkwtX-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-15" parent="WEljTychmODOqXSdkwtX-12" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;verticalAlign=bottom;" value="&lt;br&gt;FileMaker:&lt;br&gt;Product" vertex="1">
+          <mxGeometry height="60" width="80" x="60" y="146" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-16" edge="1" parent="WEljTychmODOqXSdkwtX-12" source="WEljTychmODOqXSdkwtX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WEljTychmODOqXSdkwtX-21" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-17" parent="WEljTychmODOqXSdkwtX-12" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;verticalAlign=bottom;" value="Alfred&lt;div&gt;AS400 LA&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="80" x="60" y="256" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-18" edge="1" parent="WEljTychmODOqXSdkwtX-12" source="WEljTychmODOqXSdkwtX-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WEljTychmODOqXSdkwtX-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-19" parent="WEljTychmODOqXSdkwtX-12" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;verticalAlign=bottom;" value="Royalty System" vertex="1">
+          <mxGeometry height="60" width="80" x="60" y="346" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-20" parent="WEljTychmODOqXSdkwtX-12" style="whiteSpace=wrap;html=1;strokeWidth=2;" value="Outputtoweb = JJ114" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="146" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-21" parent="WEljTychmODOqXSdkwtX-12" style="whiteSpace=wrap;html=1;strokeWidth=2;" value="Status = CUR, TOP, NEW, PND" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="256" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-22" parent="WEljTychmODOqXSdkwtX-12" style="whiteSpace=wrap;html=1;strokeWidth=2;" value="Digital Rights&lt;br&gt;must be setup for PHYSICAL SKU" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="346" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-23" parent="WEljTychmODOqXSdkwtX-12" style="rounded=0;whiteSpace=wrap;html=1;" value="PHYSICAL--&amp;gt;DIGITAL&lt;br&gt;Preliminary Setup of&lt;br&gt;PHYSICAL SKU Record" vertex="1">
+          <mxGeometry height="60" width="180" x="105" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Chorals&lt;div&gt;(choral octavos)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="2069" y="1227" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-25" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="460" width="400" x="1969" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-26" parent="WEljTychmODOqXSdkwtX-25" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" value="" vertex="1">
+          <mxGeometry height="460" width="400" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-27" edge="1" parent="WEljTychmODOqXSdkwtX-25" source="WEljTychmODOqXSdkwtX-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WEljTychmODOqXSdkwtX-33" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-28" parent="WEljTychmODOqXSdkwtX-25" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;verticalAlign=bottom;" value="&lt;br&gt;FileMaker:&lt;br&gt;Product" vertex="1">
+          <mxGeometry height="60" width="80" x="60" y="146" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-29" edge="1" parent="WEljTychmODOqXSdkwtX-25" source="WEljTychmODOqXSdkwtX-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WEljTychmODOqXSdkwtX-34" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-30" parent="WEljTychmODOqXSdkwtX-25" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;verticalAlign=bottom;" value="Alfred&lt;div&gt;AS400 LA&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="80" x="60" y="256" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-31" edge="1" parent="WEljTychmODOqXSdkwtX-25" source="WEljTychmODOqXSdkwtX-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WEljTychmODOqXSdkwtX-35" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-32" parent="WEljTychmODOqXSdkwtX-25" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;verticalAlign=bottom;" value="Royalty System" vertex="1">
+          <mxGeometry height="60" width="80" x="60" y="346" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-33" parent="WEljTychmODOqXSdkwtX-25" style="whiteSpace=wrap;html=1;strokeWidth=2;" value="Outputtoweb = DIGIONLY" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="146" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-34" parent="WEljTychmODOqXSdkwtX-25" style="whiteSpace=wrap;html=1;strokeWidth=2;" value="Price = USD&lt;br&gt;Territories = Value&lt;br&gt;Status = PND" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="256" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-35" parent="WEljTychmODOqXSdkwtX-25" style="whiteSpace=wrap;html=1;strokeWidth=2;" value="Digital Rights&lt;br&gt;must be setup for DUMMY SKU" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="346" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-36" parent="WEljTychmODOqXSdkwtX-25" style="rounded=0;whiteSpace=wrap;html=1;" value="DIGITAL ONLY&lt;br&gt;Preliminary Setup of&lt;br&gt;DUMMY SKU Record" vertex="1">
+          <mxGeometry height="60" width="180" x="105" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-37" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WEljTychmODOqXSdkwtX-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1949" y="1200" />
+              <mxPoint x="1739" y="1200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-38" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WEljTychmODOqXSdkwtX-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1949" y="1200" />
+              <mxPoint x="2159" y="1200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-39" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WEljTychmODOqXSdkwtX-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Digitization Process" vertex="1">
+          <mxGeometry height="60" width="180" x="1859" y="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-41" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="WEljTychmODOqXSdkwtX-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-42" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="WEljTychmODOqXSdkwtX-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-43" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="WEljTychmODOqXSdkwtX-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1949.5" y="1494" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-44" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WEljTychmODOqXSdkwtX-52" value="Manually input&lt;div&gt;data into template&lt;/div&gt;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-45" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WEljTychmODOqXSdkwtX-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-46" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;verticalAlign=middle;" value="Download WebCRD Data" vertex="1">
+          <mxGeometry height="90" width="100" x="1689" y="1544" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-47" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.template;" value="Performance Music Template&lt;br&gt;&lt;a href=&quot;https://portal.alfred.com/DigitalTemplates/Performance_Template.xlsx&quot;&gt;Download HERE&lt;/a&gt;" vertex="1">
+          <mxGeometry height="60" width="60" x="1709" y="1850" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-48" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WEljTychmODOqXSdkwtX-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Data Input - Things to watch out for:&lt;br&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;UPC for all parts/score/set should be identical&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Make sure Sort Order is correct&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;_CC should have a &quot;1&quot; for sort, and &quot;1&quot; for page count&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Check for Landscape&lt;/li&gt;&lt;/ol&gt;" vertex="1">
+          <mxGeometry height="138" width="261" x="1608.5" y="1668" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-50" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="WEljTychmODOqXSdkwtX-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1738.9999999999995" y="1494" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-51" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="WEljTychmODOqXSdkwtX-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Sheets/Books Template&lt;br&gt;&lt;a href=&quot;https://portal.alfred.com/DigitalTemplates/Sheets_Template.xls&quot;&gt;Download HERE&lt;/a&gt;" link="https://www.notion.so/makemusicinc/Digital-Sheets-Process-2e7f77794dcd8196a216cc5b3f2f2db7?source=copy_link#2e7f77794dcd81199367f5d5ce71cb7d" id="WEljTychmODOqXSdkwtX-52">
+          <mxCell parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.template;" vertex="1">
+            <mxGeometry height="60" width="60" x="1919.5" y="1855" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="WEljTychmODOqXSdkwtX-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Batch search for physical SKUs in FileMaker: Product" vertex="1">
+          <mxGeometry height="60" width="120" x="1889.5" y="1544" as="geometry" />
+        </mxCell>
+        <mxCell id="5G1I_kXl1FNhrpptA1BQ-1" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WEljTychmODOqXSdkwtX-52" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Clean + Verify + Export Data using&lt;br&gt;&quot;TSM Sheet Data Export&quot;" link="https://www.notion.so/makemusicinc/Digital-Sheets-Process-2e7f77794dcd8196a216cc5b3f2f2db7?source=copy_link#2e7f77794dcd8163bb0ad0badfc60af2" id="WEljTychmODOqXSdkwtX-54">
+          <mxCell parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1">
+            <mxGeometry height="93" width="124" x="1887.5" y="1654" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="WEljTychmODOqXSdkwtX-55" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.template;" value="Choral Template&lt;br&gt;&lt;a href=&quot;https://portal.alfred.com/DigitalTemplates/Choral_Template.xls&quot;&gt;Download HERE&lt;/a&gt;" vertex="1">
+          <mxGeometry height="60" width="60" x="2129" y="1855" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-56" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="WEljTychmODOqXSdkwtX-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2158.9999999999995" y="1491.9999999999995" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-57" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WEljTychmODOqXSdkwtX-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Data Input&lt;br&gt;Using the assets and TIFF PDF Counter, gather the following info for the template:&lt;br&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;imSKU - Physical SKU&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;imFilename - PDF filename&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;imPages - Total pages&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;imPreview - Total preview pages to display&lt;/li&gt;&lt;/ol&gt;" vertex="1">
+          <mxGeometry height="150" width="230" x="2044" y="1590" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-59" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="WEljTychmODOqXSdkwtX-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1669" y="2209" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-60" connectable="0" parent="WEljTychmODOqXSdkwtX-59" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Import Failed" vertex="1">
+          <mxGeometry relative="1" x="-0.0265" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-61" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.93;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="WEljTychmODOqXSdkwtX-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-62" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.website_generic;fillColor=#000000;" value="Upload to portal.alfred.com&lt;br&gt;using the appropriate template dropdown" vertex="1">
+          <mxGeometry height="44" width="50" x="1925" y="2097.0000000000005" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Diagnose Issues" vertex="1">
+          <mxGeometry height="60" width="120" x="1500" y="2087.68" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-64" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="WEljTychmODOqXSdkwtX-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="668" y="2195.0000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-65" connectable="0" parent="WEljTychmODOqXSdkwtX-64" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Make sure to remove column &quot;AK&quot; and resave to XLSX" vertex="1">
+          <mxGeometry relative="1" x="0.0166" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-66" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.website_generic;fillColor=#000000;" value="&lt;a href=&quot;http://alfredawssql06.alfredpub.com/reports/report/Digital_Reports/Legato&quot;&gt;Download Legato file HERE&amp;nbsp;&lt;/a&gt;" vertex="1">
+          <mxGeometry height="44" width="50" x="1924.5" y="2287.0000000000005" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-67" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.website_generic;fillColor=#000000;" value="&lt;a href=&quot;https://app.legatomedia.com/publisher/vendors/index/&quot;&gt;Upload Data to Legato&lt;/a&gt;" vertex="1">
+          <mxGeometry height="44" width="50" x="1925" y="2489.0000000000005" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-68" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.website_generic;fillColor=#000000;" value="Download MRIDs" vertex="1">
+          <mxGeometry height="44" width="50" x="1924.5" y="2647.0000000000005" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-69" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="WEljTychmODOqXSdkwtX-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-70" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.website_generic;fillColor=#000000;" value="&lt;a href=&quot;https://portal.alfred.com/TSM/Digital/UpdateMRID.aspx&quot;&gt;Upload MRIDs to Portal.alfred.com&lt;/a&gt;" vertex="1">
+          <mxGeometry height="44" width="50" x="1754.5" y="2647.0000000000005" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-71" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.93;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="WEljTychmODOqXSdkwtX-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-72" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.website_generic;fillColor=#000000;" value="Download Full version and 1 month prior version from&lt;br&gt;http://alfredawssql06.alfredpub.com/reports/report/Digital_Reports/Dealer%20Digital%20MRID%20Feed" vertex="1">
+          <mxGeometry height="44" width="50" x="1754.5" y="2761.0000000000005" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-73" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.481;entryY=0.133;entryDx=0;entryDy=0;entryPerimeter=0;" target="WEljTychmODOqXSdkwtX-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-74" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.website_generic;fillColor=#000000;" value="Upload MR_Upload_Dealer_Full.txt and MR_Upload_Dealer.txt&lt;br&gt;to ftp1.alfred.com &quot;Dealerftp&quot;" vertex="1">
+          <mxGeometry height="44" width="50" x="1754.5" y="2892.5000000000005" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-75" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="WEljTychmODOqXSdkwtX-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1560" y="2050" />
+              <mxPoint x="1950" y="2050" />
+            </Array>
+            <mxPoint x="1486" y="2231" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-76" connectable="0" parent="WEljTychmODOqXSdkwtX-75" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Loop" vertex="1">
+          <mxGeometry relative="1" x="-0.163" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-77" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.83;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="WEljTychmODOqXSdkwtX-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-78" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="WEljTychmODOqXSdkwtX-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-79" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="WEljTychmODOqXSdkwtX-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1732" y="2005" />
+              <mxPoint x="1950" y="2005" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-80" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="WEljTychmODOqXSdkwtX-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-81" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="WEljTychmODOqXSdkwtX-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2152" y="2005" />
+              <mxPoint x="1950" y="2005" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-82" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" target="WEljTychmODOqXSdkwtX-87">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2945" y="1615" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-83" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" value="Gather Source PDFs" vertex="1">
+          <mxGeometry height="90" width="175" x="2857.5" y="1493" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Rename Files&lt;br&gt;&lt;a href=&quot;http://alfredawssql06.alfredpub.com/reports/report/Digital_Reports/Digital%20Uploads%20-%20Rename%20Files&quot;&gt;Pull new filenames from HERE&amp;nbsp;&lt;/a&gt;" vertex="1">
+          <mxGeometry height="75.18" width="200" x="2845" y="1849" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-85" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.website_generic;fillColor=#000000;" value="&lt;a href=&quot;https://app.legatomedia.com/publisher/assets/uploadWizard/&quot;&gt;Upload Assets to Legato&lt;/a&gt;" vertex="1">
+          <mxGeometry height="44" width="50" x="2920" y="2072.0000000000005" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-86" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="WEljTychmODOqXSdkwtX-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-87" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Asset Specs&lt;br&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;PDFs only&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;No Covers&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Fonts should be outlined&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Remove end blank pages&lt;/li&gt;&lt;/ol&gt;" vertex="1">
+          <mxGeometry height="100" width="190" x="2850" y="1660" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-88" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.website_generic;fillColor=#000000;" value="Upload Assets to&lt;div&gt;s3://AKIAVCV6PZSPDTWJSXFX@s3.amazonaws.com/alfred-dsm-pdfs&lt;/div&gt;" vertex="1">
+          <mxGeometry height="44" width="50" x="3199.5" y="2081.0000000000005" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-89" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.website_generic;fillColor=#000000;" value="&lt;a href=&quot;https://www.dropbox.com/sh/wtqx37xdvnf7d59/AABHCZtOMjohxYHB05tFN_eza?dl=0&quot;&gt;Archive Assets on Dropbox&lt;/a&gt;" vertex="1">
+          <mxGeometry height="44" width="50" x="3472.5" y="2081.0000000000005" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-90" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="WEljTychmODOqXSdkwtX-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-91" connectable="0" parent="WEljTychmODOqXSdkwtX-90" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Asset Uploads" vertex="1">
+          <mxGeometry relative="1" x="-0.6324" y="2" as="geometry">
+            <mxPoint x="276" y="33" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-92" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="WEljTychmODOqXSdkwtX-88">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2944.5" y="2007" />
+              <mxPoint x="3224.5" y="2007" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-93" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="WEljTychmODOqXSdkwtX-89">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2944.5" y="2007" />
+              <mxPoint x="3497.5" y="2007" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-94" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="WEljTychmODOqXSdkwtX-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-95" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-96" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="WEljTychmODOqXSdkwtX-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-96" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ASSET PROCESSING" vertex="1">
+          <mxGeometry height="60" width="131" x="3159" y="1356" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-97" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="WEljTychmODOqXSdkwtX-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VMXp2K6XLRx4IyT1KS60-1" connectable="0" parent="WEljTychmODOqXSdkwtX-97" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;" value="PDF / Asset Exists" vertex="1">
+          <mxGeometry relative="1" x="-0.3539" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-98" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="DATA PROCESSING" vertex="1">
+          <mxGeometry height="60" width="469" x="1723" y="1356" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-99" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;a href=&quot;https://app.diagrams.net/%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Ba%20href%3D%26quot%3Bhttp%3A%2F%2Falfredawssql06.alfredpub.com%2Freports%2Freport%2FDigital_Reports%2FLegato%26quot%3B%26gt%3BDownload%20Legato%20file%20HERE%26amp%3Bnbsp%3B%26lt%3B%2Fa%26gt%3B%22%20style%3D%22sketch%3D0%3Baspect%3Dfixed%3BpointerEvents%3D1%3Bshadow%3D0%3Bdashed%3D0%3Bhtml%3D1%3BstrokeColor%3Dnone%3BlabelPosition%3Dcenter%3BverticalLabelPosition%3Dbottom%3BverticalAlign%3Dtop%3Balign%3Dcenter%3Bshape%3Dmxgraph.mscae.enterprise.website_generic%3BfillColor%3D%23000000%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-2037.5%22%20y%3D%22904.0000000000005%22%20width%3D%2250%22%20height%3D%2244%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&quot;&gt;Digital SKU Logic&lt;/a&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="2313" y="2089.82" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-100" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-99" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="WEljTychmODOqXSdkwtX-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-101" connectable="0" parent="WEljTychmODOqXSdkwtX-100" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Digital SKU Added" vertex="1">
+          <mxGeometry relative="1" x="-0.1835" y="2" as="geometry">
+            <mxPoint x="11" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-102" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-99" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="WEljTychmODOqXSdkwtX-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-103" connectable="0" parent="WEljTychmODOqXSdkwtX-102" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Digital SKU&lt;br&gt;Data Added" vertex="1">
+          <mxGeometry relative="1" x="-0.1801" y="1" as="geometry">
+            <mxPoint x="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-104" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-99" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="WEljTychmODOqXSdkwtX-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-105" connectable="0" parent="WEljTychmODOqXSdkwtX-104" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Digital SKU Added" vertex="1">
+          <mxGeometry relative="1" x="-0.3131" y="-2" as="geometry">
+            <mxPoint x="30" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-106" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" value="&lt;br&gt;AS400" vertex="1">
+          <mxGeometry height="64.28571428571429" width="110.00000000000001" x="2617.41" y="1989.1100000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-107" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" value="&lt;br&gt;SQL&lt;br&gt;Digital SKU Table" vertex="1">
+          <mxGeometry height="64.28571428571429" width="110.00000000000001" x="2617.41" y="2085.5385714285717" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-108" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" value="&lt;br&gt;Royalty System" vertex="1">
+          <mxGeometry height="64.28571428571429" width="110.00000000000001" x="2617.41" y="2182.614285714286" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-109" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="WEljTychmODOqXSdkwtX-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JVafwEkeGc_UPDJYSGzu-1" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-110" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2216.857142857143" y="1970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-110" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Portal.alfred.com&lt;br&gt;Automated Processing (SQL)" vertex="1">
+          <mxGeometry height="60" width="120" x="2096" y="2089.8199999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-111" parent="1" style="shape=internalStorage;whiteSpace=wrap;html=1;dx=15;dy=15;rounded=1;arcSize=8;strokeWidth=2;align=center;" value="Alfred Print Production&lt;br&gt;Archive&lt;br&gt;(Dropbox)" vertex="1">
+          <mxGeometry height="100" width="120" x="3416.5" y="1660" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-112" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" value="Cover Processing" vertex="1">
+          <mxGeometry height="90" width="175" x="3137" y="1497" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-113" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;dashed=1;" value="Full Archive (If Digital Only)" vertex="1">
+          <mxGeometry height="90" width="175" x="3389" y="1493" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-114" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-96" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="WEljTychmODOqXSdkwtX-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-115" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.website_generic;fillColor=#000000;" value="Upload Cover Asset&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;to AWS&lt;/span&gt;&lt;div&gt;Alfred-catfiles&lt;/div&gt;" vertex="1">
+          <mxGeometry height="44" width="50" x="3199.5" y="1693" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-116" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="WEljTychmODOqXSdkwtX-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-117" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WEljTychmODOqXSdkwtX-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-118" connectable="0" parent="WEljTychmODOqXSdkwtX-117" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="YES" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-119" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="WEljTychmODOqXSdkwtX-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-120" connectable="0" parent="WEljTychmODOqXSdkwtX-119" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="NO" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-121" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Available in Print?&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="940" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-122" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WEljTychmODOqXSdkwtX-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-123" connectable="0" parent="WEljTychmODOqXSdkwtX-122" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="YES" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-124" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WEljTychmODOqXSdkwtX-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-125" connectable="0" parent="WEljTychmODOqXSdkwtX-124" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="NO" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-126" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Are files a Zip file&lt;/font&gt;&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;or Interactive PDF?&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="160" x="800" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-127" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="685" y="1298" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-128" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Create ER SKU (1 Record in FM marked JJ114)&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;1 alfred.com record&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Flow Content/Data through ProdAssets Table and upload to AWS&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Creates 1 Record on alfred.com&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;These will NOT be sold through Legato/Dealers&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="95" width="383" x="1087" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-129" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Create ER SKU (marked JJ114)&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Create Physical SKU (marked JJ114)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;2 alfred.com records&lt;br&gt;Flow Content/Data through ProdAssets Table for ER SKU and upload to AWS&lt;br&gt;&lt;/span&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;These will NOT be sold through Legato/Dealers&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="430" x="470" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-130" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="WEljTychmODOqXSdkwtX-132">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1493" y="940" />
+              <mxPoint x="1493" y="468" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-131" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Create Physical SKU (1 Record in FM marked JJ114)&lt;br&gt;&lt;/span&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;Flow through Physical to Digital workflow, Creating PB SKU&lt;br&gt;2 alfred.com records&lt;br&gt;These WILL be sold through Legato/Dealers&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="370" x="920" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-132" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sell on&lt;br&gt;Alfred.com &amp;amp; Legato (Dealers)" vertex="1">
+          <mxGeometry height="60" width="180" x="1864" y="438" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-133" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WEljTychmODOqXSdkwtX-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-134" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sell on Alfred.com ONLY" vertex="1">
+          <mxGeometry height="60" width="180" x="910" y="438" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-135" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.website_generic;fillColor=#000000;" value="Alfred.com" vertex="1">
+          <mxGeometry height="44" width="50" x="2775" y="2489" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-136" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.website_generic;fillColor=#000000;" value="Fully Integrated Dealers&lt;br&gt;(i.e. Pepper, Stanton&#39;s, etc.)" vertex="1">
+          <mxGeometry height="44" width="50" x="2297" y="2489" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-137" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="WEljTychmODOqXSdkwtX-135">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2784" y="2783" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-138" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="WEljTychmODOqXSdkwtX-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-139" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.93;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="WEljTychmODOqXSdkwtX-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-140" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="WEljTychmODOqXSdkwtX-135">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="685" y="3072" />
+              <mxPoint x="2710" y="3072" />
+              <mxPoint x="2710" y="2511" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-141" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;a href=&quot;https://docs.google.com/document/d/1nECvGwJUDOw6LGTt6eKLcyLSBH061b4n-Gokfnu0kfI/edit?usp=sharing&quot;&gt;Distribution Rules&lt;/a&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="2936" y="268" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-147" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WEljTychmODOqXSdkwtX-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-148" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WEljTychmODOqXSdkwtX-146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-142" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Alfred Music Products" vertex="1">
+          <mxGeometry height="60" width="180" x="-1285" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-180" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WEljTychmODOqXSdkwtX-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-182" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WEljTychmODOqXSdkwtX-158">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-143" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Digital and Physical" vertex="1">
+          <mxGeometry height="60" width="180" x="-1630" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-183" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1329" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-144" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Digital Only" vertex="1">
+          <mxGeometry height="60" width="180" x="-1420" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-153" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WEljTychmODOqXSdkwtX-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-154" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WEljTychmODOqXSdkwtX-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-145" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Alfred.com ONLY" vertex="1">
+          <mxGeometry height="60" width="180" x="-1525" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-155" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WEljTychmODOqXSdkwtX-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-198" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WEljTychmODOqXSdkwtX-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-146" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Dealers &amp;amp; Alfred.com" vertex="1">
+          <mxGeometry height="60" width="180" x="-955" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-187" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WEljTychmODOqXSdkwtX-186">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-151" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Digital and Physical" vertex="1">
+          <mxGeometry height="60" width="180" x="-1075" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-188" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WEljTychmODOqXSdkwtX-186">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-152" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Digital Only" vertex="1">
+          <mxGeometry height="60" width="180" x="-865" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-181" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WEljTychmODOqXSdkwtX-159">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-157" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Interactive" vertex="1">
+          <mxGeometry height="60" width="180" x="-1630" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-179" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="WEljTychmODOqXSdkwtX-146">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1175" y="620" />
+              <mxPoint x="-1175" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-184" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WEljTychmODOqXSdkwtX-159">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-158" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Non Interactive" vertex="1">
+          <mxGeometry height="60" width="180" x="-1420" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-166" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="WEljTychmODOqXSdkwtX-170">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1572.5" y="905" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-167" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="WEljTychmODOqXSdkwtX-171">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1372.5" y="905" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-159" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Create ER FileMaker &amp;amp; AS400 Record&lt;div&gt;Create Dummy or Physical FileMaker &amp;amp; AS400 Record (unlinked)&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="280" x="-1575" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-170" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.website_generic;fillColor=#000000;" value="Physical Record&lt;div&gt;alfred.com&lt;/div&gt;" vertex="1">
+          <mxGeometry height="44" width="50" x="-1562.5" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-171" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.website_generic;fillColor=#000000;" value="Digital Record&lt;div&gt;alfred.com&lt;/div&gt;" vertex="1">
+          <mxGeometry height="44" width="50" x="-1375" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-185" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sell on Alfred.com &amp;amp; Allow Dealers to access Dropbox Files" vertex="1">
+          <mxGeometry height="62" width="207" x="2180" y="436" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-194" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WEljTychmODOqXSdkwtX-190">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-195" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WEljTychmODOqXSdkwtX-191">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-196" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WEljTychmODOqXSdkwtX-192">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-186" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Create Dummy or Physical FileMaker &amp;amp; AS400 Record (unlinked)&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="280" x="-1030" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-200" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="WEljTychmODOqXSdkwtX-199">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-190" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Performance Music&lt;br&gt;(ensembles with score/parts)" vertex="1">
+          <mxGeometry height="60" width="180" x="-1190" y="755" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-201" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WEljTychmODOqXSdkwtX-199">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-191" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sheets/Books&lt;br&gt;(Full books or single songs)" vertex="1">
+          <mxGeometry height="60" width="180" x="-980" y="755" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-202" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WEljTychmODOqXSdkwtX-199">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-192" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Chorals&lt;div&gt;(choral octavos)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="-770" y="755" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-217" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.83;exitDx=0;exitDy=0;exitPerimeter=0;" target="WEljTychmODOqXSdkwtX-214">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-193" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.website_generic;fillColor=#000000;" value="Upload to portal.alfred.com&lt;br&gt;using the appropriate template dropdown" vertex="1">
+          <mxGeometry height="44" width="50" x="-915" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-199" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="DATA/ASSET PROCESSING" vertex="1">
+          <mxGeometry height="60" width="469" x="-1124.5" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-203" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;a href=&quot;https://app.diagrams.net/%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Ba%20href%3D%26quot%3Bhttp%3A%2F%2Falfredawssql06.alfredpub.com%2Freports%2Freport%2FDigital_Reports%2FLegato%26quot%3B%26gt%3BDownload%20Legato%20file%20HERE%26amp%3Bnbsp%3B%26lt%3B%2Fa%26gt%3B%22%20style%3D%22sketch%3D0%3Baspect%3Dfixed%3BpointerEvents%3D1%3Bshadow%3D0%3Bdashed%3D0%3Bhtml%3D1%3BstrokeColor%3Dnone%3BlabelPosition%3Dcenter%3BverticalLabelPosition%3Dbottom%3BverticalAlign%3Dtop%3Balign%3Dcenter%3Bshape%3Dmxgraph.mscae.enterprise.website_generic%3BfillColor%3D%23000000%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-2037.5%22%20y%3D%22904.0000000000005%22%20width%3D%2250%22%20height%3D%2244%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&quot;&gt;Digital SKU Logic&lt;/a&gt;" vertex="1">
+          <mxGeometry height="60.71" width="120" x="-734" y="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-204" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-203" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="WEljTychmODOqXSdkwtX-210">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-205" connectable="0" parent="WEljTychmODOqXSdkwtX-204" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Digital SKU Added" vertex="1">
+          <mxGeometry relative="1" x="-0.1835" y="2" as="geometry">
+            <mxPoint x="11" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-206" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-203" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="WEljTychmODOqXSdkwtX-211">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-207" connectable="0" parent="WEljTychmODOqXSdkwtX-206" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Digital SKU&lt;br&gt;Data Added" vertex="1">
+          <mxGeometry relative="1" x="-0.1801" y="1" as="geometry">
+            <mxPoint x="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-208" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-203" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="WEljTychmODOqXSdkwtX-212">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-209" connectable="0" parent="WEljTychmODOqXSdkwtX-208" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Digital SKU Added" vertex="1">
+          <mxGeometry relative="1" x="-0.3131" y="-2" as="geometry">
+            <mxPoint x="30" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-210" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" value="&lt;br&gt;AS400" vertex="1">
+          <mxGeometry height="64.28571428571429" width="110.00000000000001" x="-429.5899999999999" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-211" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" value="&lt;br&gt;SQL&lt;br&gt;Digital SKU Table" vertex="1">
+          <mxGeometry height="64.28571428571429" width="110.00000000000001" x="-429.5899999999999" y="1156.4285714285716" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-212" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" value="&lt;br&gt;Royalty System" vertex="1">
+          <mxGeometry height="64.28571428571429" width="110.00000000000001" x="-429.5899999999999" y="1253.5042857142857" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-213" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="WEljTychmODOqXSdkwtX-203">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-214" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Portal.alfred.com&lt;br&gt;Automated Processing (SQL)" vertex="1">
+          <mxGeometry height="60" width="120" x="-951" y="1160.7099999999996" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-215" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="WEljTychmODOqXSdkwtX-193">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-218" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.website_generic;fillColor=#000000;" value="Digital Record&lt;div&gt;alfred.com&lt;/div&gt;" vertex="1">
+          <mxGeometry height="44" width="50" x="-1046" y="1337" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-220" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="WEljTychmODOqXSdkwtX-218">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-221" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.website_generic;fillColor=#000000;" value="Legato Dealers" vertex="1">
+          <mxGeometry height="44" width="50" x="-916" y="1337" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-224" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.website_generic;fillColor=#000000;" value="&lt;div&gt;Non-Legato Dealers&lt;/div&gt;" vertex="1">
+          <mxGeometry height="44" width="50" x="-766" y="1337" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-225" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="WEljTychmODOqXSdkwtX-221">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-226" edge="1" parent="1" source="WEljTychmODOqXSdkwtX-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="WEljTychmODOqXSdkwtX-224">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEljTychmODOqXSdkwtX-227" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Selling Digital Sheet Music - Distilled Version&lt;/span&gt;" vertex="1">
+          <mxGeometry height="73" width="526" x="-1376" y="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

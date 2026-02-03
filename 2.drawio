@@ -1,0 +1,546 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.6">
+  <diagram name="Page-1" id="JkuFqlSkFTs6e1ULgAmg">
+    <mxGraphModel dx="4969" dy="3383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eS-5QUTal39ym3awfw2v-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Performance Music&lt;br&gt;(ensembles with score/parts)" vertex="1">
+          <mxGeometry height="60" width="180" x="1849" y="1647" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sheets/Books&lt;br&gt;(Full books or single songs)" vertex="1">
+          <mxGeometry height="60" width="180" x="2059" y="1647" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-3" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="eS-5QUTal39ym3awfw2v-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2146" y="953" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-4" connectable="0" parent="eS-5QUTal39ym3awfw2v-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Physical to Digital" vertex="1">
+          <mxGeometry relative="1" x="0.1156" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-5" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="eS-5QUTal39ym3awfw2v-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2211" y="914" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-6" connectable="0" parent="eS-5QUTal39ym3awfw2v-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Digital ONLY/ Digital FIRST" vertex="1">
+          <mxGeometry relative="1" x="-0.1166" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-7" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="eS-5QUTal39ym3awfw2v-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-8" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="eS-5QUTal39ym3awfw2v-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Alfred Music Products" vertex="1">
+          <mxGeometry height="60" width="180" x="1662" y="735" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Distributed Products" vertex="1">
+          <mxGeometry height="60" width="180" x="3100" y="735" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Selling Digital Sheet Music&lt;/span&gt;" vertex="1">
+          <mxGeometry height="73" width="350" x="1734" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-12" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="460" width="400" x="1729" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-13" parent="eS-5QUTal39ym3awfw2v-12" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" value="" vertex="1">
+          <mxGeometry height="460" width="400" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-14" edge="1" parent="eS-5QUTal39ym3awfw2v-12" source="eS-5QUTal39ym3awfw2v-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eS-5QUTal39ym3awfw2v-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-15" parent="eS-5QUTal39ym3awfw2v-12" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;verticalAlign=bottom;" value="&lt;br&gt;FileMaker:&lt;br&gt;Product" vertex="1">
+          <mxGeometry height="60" width="80" x="60" y="146" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-16" edge="1" parent="eS-5QUTal39ym3awfw2v-12" source="eS-5QUTal39ym3awfw2v-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eS-5QUTal39ym3awfw2v-21" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-17" parent="eS-5QUTal39ym3awfw2v-12" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;verticalAlign=bottom;" value="Alfred&lt;div&gt;AS400 LA&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="80" x="60" y="256" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-18" edge="1" parent="eS-5QUTal39ym3awfw2v-12" source="eS-5QUTal39ym3awfw2v-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eS-5QUTal39ym3awfw2v-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-19" parent="eS-5QUTal39ym3awfw2v-12" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;verticalAlign=bottom;" value="Royalty System" vertex="1">
+          <mxGeometry height="60" width="80" x="60" y="346" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-20" parent="eS-5QUTal39ym3awfw2v-12" style="whiteSpace=wrap;html=1;strokeWidth=2;" value="Outputtoweb = JJ114" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="146" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-21" parent="eS-5QUTal39ym3awfw2v-12" style="whiteSpace=wrap;html=1;strokeWidth=2;" value="Status = CUR, TOP, NEW, PND" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="256" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-22" parent="eS-5QUTal39ym3awfw2v-12" style="whiteSpace=wrap;html=1;strokeWidth=2;" value="Digital Rights&lt;br&gt;must be setup for PHYSICAL SKU" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="346" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-23" parent="eS-5QUTal39ym3awfw2v-12" style="rounded=0;whiteSpace=wrap;html=1;" value="PHYSICAL--&amp;gt;DIGITAL&lt;br&gt;Preliminary Setup of&lt;br&gt;PHYSICAL SKU Record" vertex="1">
+          <mxGeometry height="60" width="180" x="105" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Chorals&lt;div&gt;(choral octavos)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="2269" y="1647" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-25" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="460" width="400" x="2169" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-26" parent="eS-5QUTal39ym3awfw2v-25" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" value="" vertex="1">
+          <mxGeometry height="460" width="400" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-27" edge="1" parent="eS-5QUTal39ym3awfw2v-25" source="eS-5QUTal39ym3awfw2v-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eS-5QUTal39ym3awfw2v-33" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-28" parent="eS-5QUTal39ym3awfw2v-25" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;verticalAlign=bottom;" value="&lt;br&gt;FileMaker:&lt;br&gt;Product" vertex="1">
+          <mxGeometry height="60" width="80" x="60" y="146" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-29" edge="1" parent="eS-5QUTal39ym3awfw2v-25" source="eS-5QUTal39ym3awfw2v-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eS-5QUTal39ym3awfw2v-34" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-30" parent="eS-5QUTal39ym3awfw2v-25" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;verticalAlign=bottom;" value="Alfred&lt;div&gt;AS400 LA&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="80" x="60" y="256" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-31" edge="1" parent="eS-5QUTal39ym3awfw2v-25" source="eS-5QUTal39ym3awfw2v-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eS-5QUTal39ym3awfw2v-35" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-32" parent="eS-5QUTal39ym3awfw2v-25" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;verticalAlign=bottom;" value="Royalty System" vertex="1">
+          <mxGeometry height="60" width="80" x="60" y="346" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-33" parent="eS-5QUTal39ym3awfw2v-25" style="whiteSpace=wrap;html=1;strokeWidth=2;" value="Outputtoweb = DIGIONLY" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="146" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-34" parent="eS-5QUTal39ym3awfw2v-25" style="whiteSpace=wrap;html=1;strokeWidth=2;" value="Price = USD&lt;br&gt;Territories = Value&lt;br&gt;Status = PND" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="256" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-35" parent="eS-5QUTal39ym3awfw2v-25" style="whiteSpace=wrap;html=1;strokeWidth=2;" value="Digital Rights&lt;br&gt;must be setup for DUMMY SKU" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="346" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-36" parent="eS-5QUTal39ym3awfw2v-25" style="rounded=0;whiteSpace=wrap;html=1;" value="DIGITAL ONLY&lt;br&gt;Preliminary Setup of&lt;br&gt;DUMMY SKU Record" vertex="1">
+          <mxGeometry height="60" width="180" x="105" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-37" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="eS-5QUTal39ym3awfw2v-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2149" y="1620" />
+              <mxPoint x="1939" y="1620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-38" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="eS-5QUTal39ym3awfw2v-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2149" y="1620" />
+              <mxPoint x="2359" y="1620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-39" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="eS-5QUTal39ym3awfw2v-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Digitization Process" vertex="1">
+          <mxGeometry height="60" width="180" x="2059" y="1520" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-41" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="eS-5QUTal39ym3awfw2v-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-42" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="eS-5QUTal39ym3awfw2v-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-43" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="eS-5QUTal39ym3awfw2v-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2149.5" y="1914" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-44" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eS-5QUTal39ym3awfw2v-52" value="Manually input&lt;div&gt;data into template&lt;/div&gt;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-45" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="eS-5QUTal39ym3awfw2v-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-46" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;verticalAlign=middle;" value="Download WebCRD Data" vertex="1">
+          <mxGeometry height="90" width="100" x="1889" y="1964" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-47" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.template;" value="Performance Music Template&lt;br&gt;&lt;a href=&quot;https://portal.alfred.com/DigitalTemplates/Performance_Template.xlsx&quot;&gt;Download HERE&lt;/a&gt;" vertex="1">
+          <mxGeometry height="60" width="60" x="1909" y="2270" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-48" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eS-5QUTal39ym3awfw2v-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Data Input - Things to watch out for:&lt;br&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;UPC for all parts/score/set should be identical&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Make sure Sort Order is correct&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;_CC should have a &quot;1&quot; for sort, and &quot;1&quot; for page count&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Check for Landscape&lt;/li&gt;&lt;/ol&gt;" vertex="1">
+          <mxGeometry height="138" width="261" x="1808.5" y="2088" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-50" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="eS-5QUTal39ym3awfw2v-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1938.9999999999995" y="1914" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-51" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="eS-5QUTal39ym3awfw2v-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Sheets/Books Template&lt;br&gt;&lt;a href=&quot;https://portal.alfred.com/DigitalTemplates/Sheets_Template.xls&quot;&gt;Download HERE&lt;/a&gt;" link="https://www.notion.so/makemusicinc/Digital-Sheets-Process-2e7f77794dcd8196a216cc5b3f2f2db7?source=copy_link#2e7f77794dcd81199367f5d5ce71cb7d" id="eS-5QUTal39ym3awfw2v-52">
+          <mxCell parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.template;" vertex="1">
+            <mxGeometry height="60" width="60" x="2119.5" y="2275" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="eS-5QUTal39ym3awfw2v-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Batch search for physical SKUs in FileMaker: Product" vertex="1">
+          <mxGeometry height="60" width="120" x="2089.5" y="1964" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-54" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eS-5QUTal39ym3awfw2v-52" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Clean + Verify + Export Data using&lt;br&gt;&quot;TSM Sheet Data Export&quot;" link="https://www.notion.so/makemusicinc/Digital-Sheets-Process-2e7f77794dcd8196a216cc5b3f2f2db7?source=copy_link#2e7f77794dcd8163bb0ad0badfc60af2" id="eS-5QUTal39ym3awfw2v-55">
+          <mxCell parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1">
+            <mxGeometry height="93" width="124" x="2087.5" y="2074" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="eS-5QUTal39ym3awfw2v-56" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.template;" value="Choral Template&lt;br&gt;&lt;a href=&quot;https://portal.alfred.com/DigitalTemplates/Choral_Template.xls&quot;&gt;Download HERE&lt;/a&gt;" vertex="1">
+          <mxGeometry height="60" width="60" x="2329" y="2275" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-57" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="eS-5QUTal39ym3awfw2v-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2358.9999999999995" y="1911.9999999999995" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-58" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eS-5QUTal39ym3awfw2v-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Data Input&lt;br&gt;Using the assets and TIFF PDF Counter, gather the following info for the template:&lt;br&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;imSKU - Physical SKU&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;imFilename - PDF filename&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;imPages - Total pages&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;imPreview - Total preview pages to display&lt;/li&gt;&lt;/ol&gt;" vertex="1">
+          <mxGeometry height="150" width="230" x="2244" y="2010" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-60" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="eS-5QUTal39ym3awfw2v-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1869" y="2629" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-61" connectable="0" parent="eS-5QUTal39ym3awfw2v-60" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Import Failed" vertex="1">
+          <mxGeometry relative="1" x="-0.0265" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-62" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.93;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="eS-5QUTal39ym3awfw2v-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-63" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.website_generic;fillColor=#000000;" value="Upload to portal.alfred.com&lt;br&gt;using the appropriate template dropdown" vertex="1">
+          <mxGeometry height="44" width="50" x="2125" y="2517.0000000000005" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Diagnose Issues" vertex="1">
+          <mxGeometry height="60" width="120" x="1700" y="2507.68" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-65" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="eS-5QUTal39ym3awfw2v-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="868" y="2615.0000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-66" connectable="0" parent="eS-5QUTal39ym3awfw2v-65" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Make sure to remove column &quot;AK&quot; and resave to XLSX" vertex="1">
+          <mxGeometry relative="1" x="0.0166" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-67" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.website_generic;fillColor=#000000;" value="&lt;a href=&quot;http://alfredawssql06.alfredpub.com/reports/report/Digital_Reports/Legato&quot;&gt;Download Legato file HERE&amp;nbsp;&lt;/a&gt;" vertex="1">
+          <mxGeometry height="44" width="50" x="2124.5" y="2707.0000000000005" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-68" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.website_generic;fillColor=#000000;" value="&lt;a href=&quot;https://app.legatomedia.com/publisher/vendors/index/&quot;&gt;Upload Data to Legato&lt;/a&gt;" vertex="1">
+          <mxGeometry height="44" width="50" x="2125" y="2909.0000000000005" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-69" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.website_generic;fillColor=#000000;" value="Download MRIDs" vertex="1">
+          <mxGeometry height="44" width="50" x="2124.5" y="3067.0000000000005" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-70" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="eS-5QUTal39ym3awfw2v-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-71" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.website_generic;fillColor=#000000;" value="&lt;a href=&quot;https://portal.alfred.com/TSM/Digital/UpdateMRID.aspx&quot;&gt;Upload MRIDs to Portal.alfred.com&lt;/a&gt;" vertex="1">
+          <mxGeometry height="44" width="50" x="1954.5" y="3067.0000000000005" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-72" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.93;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="eS-5QUTal39ym3awfw2v-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-73" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.website_generic;fillColor=#000000;" value="Download Full version and 1 month prior version from&lt;br&gt;http://alfredawssql06.alfredpub.com/reports/report/Digital_Reports/Dealer%20Digital%20MRID%20Feed" vertex="1">
+          <mxGeometry height="44" width="50" x="1954.5" y="3181.0000000000005" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-74" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.481;entryY=0.133;entryDx=0;entryDy=0;entryPerimeter=0;" target="eS-5QUTal39ym3awfw2v-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-75" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.website_generic;fillColor=#000000;" value="Upload MR_Upload_Dealer_Full.txt and MR_Upload_Dealer.txt&lt;br&gt;to ftp1.alfred.com &quot;Dealerftp&quot;" vertex="1">
+          <mxGeometry height="44" width="50" x="1954.5" y="3312.5000000000005" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-76" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="eS-5QUTal39ym3awfw2v-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1760" y="2470" />
+              <mxPoint x="2150" y="2470" />
+            </Array>
+            <mxPoint x="1686" y="2651" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-77" connectable="0" parent="eS-5QUTal39ym3awfw2v-76" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Loop" vertex="1">
+          <mxGeometry relative="1" x="-0.163" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-78" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.83;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="eS-5QUTal39ym3awfw2v-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-79" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="eS-5QUTal39ym3awfw2v-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-80" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="eS-5QUTal39ym3awfw2v-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1932" y="2425" />
+              <mxPoint x="2150" y="2425" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-81" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="eS-5QUTal39ym3awfw2v-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-82" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="eS-5QUTal39ym3awfw2v-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2352" y="2425" />
+              <mxPoint x="2150" y="2425" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-83" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" target="eS-5QUTal39ym3awfw2v-88">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3145" y="2035" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-84" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" value="Gather Source PDFs" vertex="1">
+          <mxGeometry height="90" width="175" x="3057.5" y="1913" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-85" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Rename Files&lt;br&gt;&lt;a href=&quot;http://alfredawssql06.alfredpub.com/reports/report/Digital_Reports/Digital%20Uploads%20-%20Rename%20Files&quot;&gt;Pull new filenames from HERE&amp;nbsp;&lt;/a&gt;" vertex="1">
+          <mxGeometry height="75.18" width="200" x="3045" y="2269" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-86" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.website_generic;fillColor=#000000;" value="&lt;a href=&quot;https://app.legatomedia.com/publisher/assets/uploadWizard/&quot;&gt;Upload Assets to Legato&lt;/a&gt;" vertex="1">
+          <mxGeometry height="44" width="50" x="3120" y="2492.0000000000005" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-87" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="eS-5QUTal39ym3awfw2v-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-88" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Asset Specs&lt;br&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;PDFs only&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;No Covers&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Fonts should be outlined&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Remove end blank pages&lt;/li&gt;&lt;/ol&gt;" vertex="1">
+          <mxGeometry height="100" width="190" x="3050" y="2080" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-89" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.website_generic;fillColor=#000000;" value="Upload Assets to&lt;div&gt;s3://AKIAVCV6PZSPDTWJSXFX@s3.amazonaws.com/alfred-dsm-pdfs&lt;/div&gt;" vertex="1">
+          <mxGeometry height="44" width="50" x="3399.5" y="2501.0000000000005" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-90" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.website_generic;fillColor=#000000;" value="&lt;a href=&quot;https://www.dropbox.com/sh/wtqx37xdvnf7d59/AABHCZtOMjohxYHB05tFN_eza?dl=0&quot;&gt;Archive Assets on Dropbox&lt;/a&gt;" vertex="1">
+          <mxGeometry height="44" width="50" x="3672.5" y="2501.0000000000005" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-91" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="eS-5QUTal39ym3awfw2v-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-92" connectable="0" parent="eS-5QUTal39ym3awfw2v-91" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Asset Uploads" vertex="1">
+          <mxGeometry relative="1" x="-0.6324" y="2" as="geometry">
+            <mxPoint x="276" y="33" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-93" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="eS-5QUTal39ym3awfw2v-89">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3144.5" y="2427" />
+              <mxPoint x="3424.5" y="2427" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-94" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="eS-5QUTal39ym3awfw2v-90">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3144.5" y="2427" />
+              <mxPoint x="3697.5" y="2427" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-95" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="eS-5QUTal39ym3awfw2v-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-96" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-97" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="eS-5QUTal39ym3awfw2v-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-97" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ASSET PROCESSING" vertex="1">
+          <mxGeometry height="60" width="131" x="3359" y="1776" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-98" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="eS-5QUTal39ym3awfw2v-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-99" connectable="0" parent="eS-5QUTal39ym3awfw2v-98" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;" value="PDF / Asset Exists" vertex="1">
+          <mxGeometry relative="1" x="-0.3539" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-100" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="DATA PROCESSING" vertex="1">
+          <mxGeometry height="60" width="469" x="1923" y="1776" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-101" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;a href=&quot;https://app.diagrams.net/%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Ba%20href%3D%26quot%3Bhttp%3A%2F%2Falfredawssql06.alfredpub.com%2Freports%2Freport%2FDigital_Reports%2FLegato%26quot%3B%26gt%3BDownload%20Legato%20file%20HERE%26amp%3Bnbsp%3B%26lt%3B%2Fa%26gt%3B%22%20style%3D%22sketch%3D0%3Baspect%3Dfixed%3BpointerEvents%3D1%3Bshadow%3D0%3Bdashed%3D0%3Bhtml%3D1%3BstrokeColor%3Dnone%3BlabelPosition%3Dcenter%3BverticalLabelPosition%3Dbottom%3BverticalAlign%3Dtop%3Balign%3Dcenter%3Bshape%3Dmxgraph.mscae.enterprise.website_generic%3BfillColor%3D%23000000%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-2037.5%22%20y%3D%22904.0000000000005%22%20width%3D%2250%22%20height%3D%2244%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&quot;&gt;Digital SKU Logic&lt;/a&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="2513" y="2509.82" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-102" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-101" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="eS-5QUTal39ym3awfw2v-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-103" connectable="0" parent="eS-5QUTal39ym3awfw2v-102" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Digital SKU Added" vertex="1">
+          <mxGeometry relative="1" x="-0.1835" y="2" as="geometry">
+            <mxPoint x="11" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-104" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-101" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="eS-5QUTal39ym3awfw2v-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-105" connectable="0" parent="eS-5QUTal39ym3awfw2v-104" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Digital SKU&lt;br&gt;Data Added" vertex="1">
+          <mxGeometry relative="1" x="-0.1801" y="1" as="geometry">
+            <mxPoint x="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-106" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-101" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="eS-5QUTal39ym3awfw2v-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-107" connectable="0" parent="eS-5QUTal39ym3awfw2v-106" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Digital SKU Added" vertex="1">
+          <mxGeometry relative="1" x="-0.3131" y="-2" as="geometry">
+            <mxPoint x="30" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-108" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" value="&lt;br&gt;AS400" vertex="1">
+          <mxGeometry height="64.28571428571429" width="110.00000000000001" x="2817.41" y="2409.11" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-109" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" value="&lt;br&gt;SQL&lt;br&gt;Digital SKU Table" vertex="1">
+          <mxGeometry height="64.28571428571429" width="110.00000000000001" x="2817.41" y="2505.5385714285717" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-110" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" value="&lt;br&gt;Royalty System" vertex="1">
+          <mxGeometry height="64.28571428571429" width="110.00000000000001" x="2817.41" y="2602.614285714286" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-111" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="eS-5QUTal39ym3awfw2v-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-112" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-113" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2416.857142857143" y="2390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-113" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Portal.alfred.com&lt;br&gt;Automated Processing (SQL)" vertex="1">
+          <mxGeometry height="60" width="120" x="2296" y="2509.8199999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-114" parent="1" style="shape=internalStorage;whiteSpace=wrap;html=1;dx=15;dy=15;rounded=1;arcSize=8;strokeWidth=2;align=center;" value="Alfred Print Production&lt;br&gt;Archive&lt;br&gt;(Dropbox)" vertex="1">
+          <mxGeometry height="100" width="120" x="3616.5" y="2080" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-115" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" value="Cover Processing" vertex="1">
+          <mxGeometry height="90" width="175" x="3337" y="1917" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-116" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;dashed=1;" value="Full Archive (If Digital Only)" vertex="1">
+          <mxGeometry height="90" width="175" x="3589" y="1913" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-117" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-97" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="eS-5QUTal39ym3awfw2v-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-118" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.website_generic;fillColor=#000000;" value="Upload Cover Asset&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;to AWS&lt;/span&gt;&lt;div&gt;Alfred-catfiles&lt;/div&gt;" vertex="1">
+          <mxGeometry height="44" width="50" x="3399.5" y="2113" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-119" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="eS-5QUTal39ym3awfw2v-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-120" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="eS-5QUTal39ym3awfw2v-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-121" connectable="0" parent="eS-5QUTal39ym3awfw2v-120" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="YES" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-122" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="eS-5QUTal39ym3awfw2v-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-123" connectable="0" parent="eS-5QUTal39ym3awfw2v-122" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="NO" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-124" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Available in Print?&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1140" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-125" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="eS-5QUTal39ym3awfw2v-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-126" connectable="0" parent="eS-5QUTal39ym3awfw2v-125" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="YES" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-127" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="eS-5QUTal39ym3awfw2v-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-128" connectable="0" parent="eS-5QUTal39ym3awfw2v-127" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="NO" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-129" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Are files a Zip file&lt;/font&gt;&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;or Interactive PDF?&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="160" x="1000" y="1150" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-130" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="885" y="1718" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-131" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Create ER SKU (1 Record in FM marked JJ114)&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;1 alfred.com record&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Flow Content/Data through ProdAssets Table and upload to AWS&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Creates 1 Record on alfred.com&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;These will NOT be sold through Legato/Dealers&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="95" width="383" x="1287" y="1150" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-132" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Create ER SKU (marked JJ114)&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Create Physical SKU (marked JJ114)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;2 alfred.com records&lt;br&gt;Flow Content/Data through ProdAssets Table for ER SKU and upload to AWS&lt;br&gt;&lt;/span&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;These will NOT be sold through Legato/Dealers&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="430" x="670" y="1300" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-133" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="eS-5QUTal39ym3awfw2v-135">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1693" y="1360" />
+              <mxPoint x="1693" y="888" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-134" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Create Physical SKU (1 Record in FM marked JJ114)&lt;br&gt;&lt;/span&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;Flow through Physical to Digital workflow, Creating PB SKU&lt;br&gt;2 alfred.com records&lt;br&gt;These WILL be sold through Legato/Dealers&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="370" x="1120" y="1300" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-135" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sell on&lt;br&gt;Alfred.com &amp;amp; Legato (Dealers)" vertex="1">
+          <mxGeometry height="60" width="180" x="2064" y="858" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-136" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eS-5QUTal39ym3awfw2v-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-137" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sell on Alfred.com ONLY" vertex="1">
+          <mxGeometry height="60" width="180" x="1110" y="858" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-138" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.website_generic;fillColor=#000000;" value="Alfred.com" vertex="1">
+          <mxGeometry height="44" width="50" x="2975" y="2909" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-139" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.website_generic;fillColor=#000000;" value="Fully Integrated Dealers&lt;br&gt;(i.e. Pepper, Stanton&#39;s, etc.)" vertex="1">
+          <mxGeometry height="44" width="50" x="2497" y="2909" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-140" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="eS-5QUTal39ym3awfw2v-138">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2984" y="3203" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-141" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="eS-5QUTal39ym3awfw2v-138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-142" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.93;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="eS-5QUTal39ym3awfw2v-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-143" edge="1" parent="1" source="eS-5QUTal39ym3awfw2v-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="eS-5QUTal39ym3awfw2v-138">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="885" y="3492" />
+              <mxPoint x="2910" y="3492" />
+              <mxPoint x="2910" y="2931" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-144" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;a href=&quot;https://docs.google.com/document/d/1nECvGwJUDOw6LGTt6eKLcyLSBH061b4n-Gokfnu0kfI/edit?usp=sharing&quot;&gt;Distribution Rules&lt;/a&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="3136" y="688" as="geometry" />
+        </mxCell>
+        <mxCell id="eS-5QUTal39ym3awfw2v-145" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sell on Alfred.com &amp;amp; Allow Dealers to access Dropbox Files" vertex="1">
+          <mxGeometry height="62" width="207" x="2380" y="856" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
