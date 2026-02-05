@@ -55,7 +55,7 @@
 
 ## Phase 1: Quick-Win Automation
 
-**Objective**: Reduce manual effort in current workflow by ~60% while laying groundwork for Phase 2 architecture.
+**Objective**: Drastically reduce manual effort in current workflow while laying groundwork for Phase 2 architecture.
 
 **Approach**: Build new services on SQL Server and new infrastructure. Wrap legacy systems rather than modify them. Create foundation for digital-first path.
 
