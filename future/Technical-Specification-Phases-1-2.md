@@ -17,7 +17,7 @@
 | **SQL Server** | 🟢 Easy to change | New tables, stored procedures, batches all feasible |
 | **New Infrastructure** | 🟢 Unlimited | New VMs, services, APIs, orchestration systems available |
 
-**Strategic Implication**: Build new systems around legacy components rather than modifying them. Use SQL Server as the orchestration hub. Create new APIs and services to abstract legacy complexity.
+**Strategic Implication**: Build new systems around legacy components rather than replacing them. Use SQL Server as the orchestration hub. Create new APIs and services to abstract legacy complexity.
 
 ---
 
